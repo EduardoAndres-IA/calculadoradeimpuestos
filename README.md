@@ -25,17 +25,17 @@ Esta aplicación es una calculadora de sueldo líquido para trabajadores en Chil
 
 1. **Clonar o descargar el proyecto**:
     ```bash
-    git clone https://github.com/usuario/calculadora-sueldo-liquido.git
+    git clone https://github.com/EduardoAndres-IA/calculadoradeimpuestos.git
     ```
 
 2. **Navegar al directorio del proyecto**:
     ```bash
-    cd calculadora-sueldo-liquido
+    cd calculadoradeimpuestos
     ```
 
 3. **Ejecutar el archivo principal**:
     ```bash
-    python calculadora_sueldo_liquido.py
+    python main.py
     ```
 
 4. **Ingresar el ingreso bruto mensual** en la interfaz gráfica y presionar el botón "Calcular Sueldo Líquido".
