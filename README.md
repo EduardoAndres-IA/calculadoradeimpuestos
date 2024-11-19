@@ -44,7 +44,7 @@ Esta aplicación es una calculadora de sueldo líquido para trabajadores en Chil
 
 ## Capturas de Pantalla
 
-![Interfaz de la Calculadora](https://via.placeholder.com/600x400?text=Captura+de+pantalla+de+la+calculadora)
+![Interfaz de la Calculadora](./captura.png)
 
 ## Cálculos Realizados
 
